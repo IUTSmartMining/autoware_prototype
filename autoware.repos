@@ -150,6 +150,10 @@ repositories:
     type: git
     url: git@github.com:tier4/pacmod_interface.git
     version: main
+  vehicle/external/autoware_vehicle_interface_prototype:
+    type: git
+    url: git@github.com:IUTSmartMining/autoware_vehicle_interface_prototype.git
+    version: main
   # param
   param/autoware_individual_params:
     type: git

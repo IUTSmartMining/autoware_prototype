@@ -107,6 +107,10 @@ repositories:
     type: git
     url: git@github.com:IUTSmartMining/lslidar_driver.git
     version: main
+  sensor_component/external/gps_driver:
+    type: git
+    url: git@github.com:IUTSmartMining/gps_driver.git
+    version: main
   # sensor_kit
   sensor_kit/sample_sensor_kit_launch:
     type: git

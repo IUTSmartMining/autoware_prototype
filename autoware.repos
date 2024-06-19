@@ -111,6 +111,10 @@ repositories:
     type: git
     url: git@github.com:IUTSmartMining/camera_driver.git
     version: main
+  sensor_component/external/gps_driver:
+    type: git
+    url: git@github.com:IUTSmartMining/gps_driver.git
+    version: main
   # sensor_kit
   sensor_kit/sample_sensor_kit_launch:
     type: git
@@ -132,6 +136,10 @@ repositories:
   vehicle/external/pacmod_interface:
     type: git
     url: git@github.com:tier4/pacmod_interface.git
+    version: main
+  vehicle/external/autoware_vehicle_interface_prototype:
+    type: git
+    url: git@github.com:IUTSmartMining/autoware_vehicle_interface_prototype.git
     version: main
   # param
   param/autoware_individual_params:

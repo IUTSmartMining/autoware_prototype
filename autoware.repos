@@ -107,6 +107,10 @@ repositories:
     type: git
     url: git@github.com:IUTSmartMining/lslidar_driver.git
     version: main
+  sensor_component/external/camera_driver:
+    type: git
+    url: git@github.com:IUTSmartMining/camera_driver.git
+    version: main
   # sensor_kit
   sensor_kit/sample_sensor_kit_launch:
     type: git

@@ -112,9 +112,13 @@ repositories:
     type: git
     url: git@github.com:IUTSmartMining/ars408_driver.git
     version: main
-  sensor_component/external/smrc_imu_driver:
+  sensor_component/external/autopilot_msgs:
     type: git
-    url: git@github.com:IUTSmartMining/smrc_imu_driver.git
+    url: git@github.com:IUTSmartMining/autopilot_msgs.git
+    version: main
+  sensor_component/external/autopilot_driver:
+    type: git
+    url: git@github.com:IUTSmartMining/autopilot_driver.git
     version: main
   sensor_component/external/lslidar_driver:
     type: git

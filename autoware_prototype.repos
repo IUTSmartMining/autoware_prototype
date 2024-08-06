@@ -121,11 +121,11 @@ repositories:
   sensor_component/external/autopilot_msgs:
     type: git
     url: git@github.com:IUTSmartMining/autopilot_msgs.git
-    version: main
+    version: master
   sensor_component/external/autopilot_driver:
     type: git
     url: git@github.com:IUTSmartMining/autopilot_driver.git
-    version: main
+    version: master
   sensor_component/external/lslidar_driver:
     type: git
     url: git@github.com:IUTSmartMining/lslidar_driver.git

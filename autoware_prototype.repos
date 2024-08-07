@@ -181,3 +181,20 @@ repositories:
     type: git
     url: git@github.com:IUTSmartMining/autoware_individual_params_prototype.git
     version: main
+  # rqt
+  rqt/apu_rqt:
+    type: git
+    url: git@github.com:IUTSmartMining/apu_rqt.git
+    version: main
+  rqt/autoware_vehicle_interface_rqt:
+    type: git
+    url: git@github.com:IUTSmartMining/autoware_vehicle_interface_rqt.git
+    version: main
+  rqt/goal_rqt:
+    type: git
+    url: git@github.com:IUTSmartMining/goal_rqt.git
+    version: main
+  rqt/logs_rqt:
+    type: git
+    url: git@github.com:IUTSmartMining/logs_rqt.git
+    version: main

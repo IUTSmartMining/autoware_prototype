@@ -176,6 +176,10 @@ repositories:
     type: git
     url: git@github.com:IUTSmartMining/autoware_vehicle_interface_prototype.git
     version: main
+  vehicle/external/oau_custom_msg:
+    type: git
+    url: git@github.com:IUTSmartMining/oau_custom_msg.git
+    version: main
   # param
   param/autoware_individual_params:
     type: git
